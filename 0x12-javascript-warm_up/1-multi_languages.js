@@ -1,4 +1,5 @@
 #!/usr/bin/node
-console.log('C is fun');
-console.log('Python is cool');
-console.log('JavaScript is amazing');
+const phraseArray = ['C is fun', 'Python is cool', 'Javascript is amazing'];
+for (let i = 0; i < 3; i++) {
+  console.log(phraseArray[i]);
+}
