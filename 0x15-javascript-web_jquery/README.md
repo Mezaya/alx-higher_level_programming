@@ -1,1 +1,3 @@
-0x15. JavaScript - Web jQuery
+# Javascript - Web JQuery
+
+This was the preparatory project learning how to manipulate the DOM with jQuery
